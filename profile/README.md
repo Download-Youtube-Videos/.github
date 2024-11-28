@@ -1,7 +1,7 @@
 # Download Youtube Videos
 
 `yt2pc` is a program that allows you to subscribe to a YouTube playlist as if it were a podcast. It takes care of everything, from listing the episodes to downloading the audio and converting it into a standard format that any device can play.
-- <a href="https://yt2pc.com" target="_blank" rel="noopener noreferrer">Download-Youtube-Videos</a>
+- <a href="https://yt2pc.com" target="_blank" rel="noopener noreferrer">Download Youtube Videos</a>
 ## Requirements
 
 - A YouTube API Key. Can be obtained from the Google Developers Console.
